@@ -1,0 +1,15 @@
+﻿,WT,C9orf72
+Number of values,5,3
+,,
+Minimum,33.64,84.09
+25% Percentile,52.07,84.09
+Median,92.50,163.0
+75% Percentile,151.7,309.2
+Maximum,185.6,309.2
+,,
+Mean,100.0,185.4
+Std. Deviation,56.96,114.2
+Std. Error of Mean,25.47,65.94
+,,
+Lower 95% CI,29.27,-98.29
+Upper 95% CI,170.7,469.1

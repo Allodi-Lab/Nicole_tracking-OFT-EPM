@@ -1,0 +1,35 @@
+﻿,,,,,,,,
+Number of families,1,,,,,,,
+Number of comparisons per family,10,,,,,,,
+Alpha,0.05,,,,,,,
+,,,,,,,,
+Tukey's multiple comparisons test,Mean Diff.,95.00% CI of diff.,Below threshold?,Summary,Adjusted P Value,,,
+  ClosedTop (%) vs. ClosedBottom,17.62,1.769 to 33.47,Yes,*,0.0283,A-B,,
+  ClosedTop (%) vs. OpenLeft (%),-1.327,-17.18 to 14.52,No,ns,0.9985,A-C,,
+  ClosedTop (%) vs. OpenRight (%),18.61,2.759 to 34.46,Yes,*,0.0206,A-D,,
+  ClosedTop (%) vs. Neutral (%),14.97,-0.8765 to 30.83,No,ns,0.0663,A-E,,
+  ClosedBottom vs. OpenLeft (%),-18.95,-34.80 to -3.096,Yes,*,0.0185,B-C,,
+  ClosedBottom vs. OpenRight (%),0.9896,-14.86 to 16.84,No,ns,0.9995,B-D,,
+  ClosedBottom vs. Neutral (%),-2.646,-18.50 to 13.21,No,ns,0.9796,B-E,,
+  OpenLeft (%) vs. OpenRight (%),19.94,4.086 to 35.79,Yes,*,0.0135,C-D,,
+  OpenLeft (%) vs. Neutral (%),16.30,0.4504 to 32.15,Yes,*,0.0432,C-E,,
+  OpenRight (%) vs. Neutral (%),-3.635,-19.49 to 12.22,No,ns,0.9379,D-E,,
+,,,,,,,,
+Test details,Mean 1,Mean 2,Mean Diff.,SE of diff.,n1,n2,q,DF
+  ClosedTop (%) vs. ClosedBottom,27.36,9.742,17.62,4.816,3,3,5.174,10
+  ClosedTop (%) vs. OpenLeft (%),27.36,28.69,-1.327,4.816,3,3,0.3896,10
+  ClosedTop (%) vs. OpenRight (%),27.36,8.753,18.61,4.816,3,3,5.464,10
+  ClosedTop (%) vs. Neutral (%),27.36,12.39,14.97,4.816,3,3,4.397,10
+  ClosedBottom vs. OpenLeft (%),9.742,28.69,-18.95,4.816,3,3,5.563,10
+  ClosedBottom vs. OpenRight (%),9.742,8.753,0.9896,4.816,3,3,0.2906,10
+  ClosedBottom vs. Neutral (%),9.742,12.39,-2.646,4.816,3,3,0.7768,10
+  OpenLeft (%) vs. OpenRight (%),28.69,8.753,19.94,4.816,3,3,5.854,10
+  OpenLeft (%) vs. Neutral (%),28.69,12.39,16.30,4.816,3,3,4.787,10
+  OpenRight (%) vs. Neutral (%),8.753,12.39,-3.635,4.816,3,3,1.067,10
+,,,,,,,,
+Compact letter display,,,,,,,,
+  OpenLeft (%),A,,,,,,,
+  ClosedTop (%),A B,,,,,,,
+  Neutral (%),B C,,,,,,,
+  ClosedBottom,C,,,,,,,
+  OpenRight (%),C,,,,,,,
