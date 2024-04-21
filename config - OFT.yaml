@@ -1,0 +1,174 @@
+    # Project definitions (do not edit)
+Task: OFT (pre-post)
+scorer: NJ
+date: Apr4
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: C:/Users/nj35/Desktop/C9orf72 DLC Vids/OFT (pre-post)-NJ-2024-04-04
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 1.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 2.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 3.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 4.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 5.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 6.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 7.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT pre-trial 8.mp4:
+    crop: 0, 1280, 0, 960
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 1.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 2.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 3.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 4.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 5.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 6.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 7.mp4:
+    crop: 0, 640, 0, 426
+  C:\Users\nj35\Desktop\C9orf72 DLC Vids\OFT (pre-post)-NJ-2024-04-04\videos\OFT post-trial 8.mp4:
+    crop: 0, 640, 0, 426
+bodyparts:
+- nose
+- head centre
+- left ear
+- right ear
+- neck
+- left side
+- body centre
+- right side
+- left hip
+- right hip
+- tail base
+- tail centre
+- tail tip
+- tl
+- tr
+- bl
+- br
+- c
+
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - right ear
+  - neck
+- - right ear
+  - right side
+- - neck
+  - body centre
+- - nose
+  - left ear
+- - left ear
+  - left side
+- - nose
+  - tr
+- - nose
+  - c
+- - body centre
+  - left hip
+- - left side
+  - body centre
+- - right ear
+  - body centre
+- - nose
+  - head centre
+- - right hip
+  - tail base
+- - left ear
+  - neck
+- - tail base
+  - tail centre
+- - nose
+  - br
+- - nose
+  - tl
+- - right side
+  - right hip
+- - body centre
+  - right side
+- - body centre
+  - tail base
+- - left side
+  - left hip
+- - nose
+  - right ear
+- - left hip
+  - tail base
+- - head centre
+  - neck
+- - tail centre
+  - tail tip
+- - nose
+  - bl
+- - left ear
+  - body centre
+- - body centre
+  - right hip
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 1
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 1
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 1
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
