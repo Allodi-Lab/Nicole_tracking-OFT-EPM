@@ -1,0 +1,17 @@
+﻿,C9_post
+Theoretical mean,50.00
+Actual mean,90.40
+Number of values,3
+,
+One sample t test,
+  t, df,t=11.92, df=2
+  P value (two tailed),0.0070
+  P value summary,**
+  Significant (alpha=0.05)?,Yes
+,
+How big is the discrepancy?,
+  Discrepancy,40.40
+  SD of discrepancy,5.872
+  SEM of discrepancy,3.390
+  95% confidence interval,25.81 to 54.99
+  R squared (partial eta squared),0.9861

@@ -1,0 +1,17 @@
+﻿,WT_post
+Theoretical mean,50.00
+Actual mean,94.84
+Number of values,5
+,
+One sample t test,
+  t, df,t=34.23, df=4
+  P value (two tailed),<0.0001
+  P value summary,****
+  Significant (alpha=0.05)?,Yes
+,
+How big is the discrepancy?,
+  Discrepancy,44.84
+  SD of discrepancy,2.929
+  SEM of discrepancy,1.310
+  95% confidence interval,41.21 to 48.48
+  R squared (partial eta squared),0.9966
